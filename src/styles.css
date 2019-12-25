@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Count {
+  font-size: 40px;
+  color: orange;
+  font-weight: 600;
+}
+
+.Button {
+  margin: 0px 10px;
+  background-color: yellowgreen;
+  font-size: 20px;
+  border-radius: 5px;
+}
